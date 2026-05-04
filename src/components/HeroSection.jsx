@@ -43,7 +43,7 @@ export const HeroSection = () => {
         >
           <img
             className=" w-50 h-50 md:w-70 md:h-70 mt-10 rounded-full opacity-0 animate-fade-in"
-            src="/profile/photo.png"
+            src="/profile/photo_2026-01-17_17-25-16.jpg"
             alt=""
           />
         </motion.div>
